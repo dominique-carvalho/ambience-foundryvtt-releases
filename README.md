@@ -1,6 +1,6 @@
 # Ambience — Trilha Sonora Sincronizada (releases)
 
-Distribuição do módulo **Ambience** para o Foundry VTT (v13 / v14, qualquer sistema):
+Distribuição do módulo **Ambience** para o Foundry VTT (v12 / v13 / v14, qualquer sistema):
 uma biblioteca de trilhas que mistura arquivos de áudio locais e vídeos do YouTube
 e toca tudo sincronizado para a mesa, com cenas rápidas, sugestões dos jogadores e
 um widget que encolhe e encaixa num canto da tela.
